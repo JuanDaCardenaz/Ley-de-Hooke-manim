@@ -40,4 +40,5 @@ python -m manim -pqh ley_de_hooke_comentado_final.py LeyDeHooke
 ```
 
 ## Video explicativo
-El enlace o archivo del video explicativo se añadirá en la carpeta `video/` antes de realizar la entrega final.
+
+Video de sustentación del proyecto: [Cómo animar la Ley de Hooke con Python y Manim](https://youtu.be/ZpiE-PVUHy0)
