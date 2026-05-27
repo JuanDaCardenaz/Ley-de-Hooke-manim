@@ -1,0 +1,12 @@
+# Entorno virtual y archivos temporales de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Archivos intermedios generados por Manim
+media/Tex/
+media/texts/
+media/**/partial_movie_files/
+
+# Configuración local del editor
+.vscode/
