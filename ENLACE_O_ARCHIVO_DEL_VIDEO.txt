@@ -1,13 +1,12 @@
-VIDEO EXPLICATIVO - PENDIENTE DE AGREGAR
+VIDEO EXPLICATIVO DEL PROYECTO
 
-Antes de realizar la entrega final, reemplazar este texto con una de estas dos opciones:
+Título: Cómo animar la Ley de Hooke con Python y Manim
+Enlace: https://youtu.be/ZpiE-PVUHy0
 
-Opción 1: pegar aquí el enlace al video explicativo de 6 a 8 minutos.
-Opción 2: agregar el archivo .mp4 dentro de esta misma carpeta y escribir aquí su nombre.
-
-El video debe mostrar:
-- el concepto elegido: Ley de Hooke;
-- la organización de las tres escenas;
-- los recursos principales de Manim utilizados;
-- la adaptación propia realizada;
-- la dificultad técnica o conceptual y lo aprendido.
+En este video explico:
+- Qué es Manim Community y cómo lo utilicé en el proyecto.
+- La organización del código por bloques.
+- La construcción visual del resorte y la masa.
+- Las escenas de deformación, oscilación e intercambio de energía.
+- Los recursos de Manim implementados.
+- La adaptación propia realizada y las dificultades técnicas del desarrollo.
